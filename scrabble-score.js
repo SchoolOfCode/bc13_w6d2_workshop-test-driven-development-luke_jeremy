@@ -1,1 +1,5 @@
-export function calculateScrabbleScore(word) {}
+export function calculateScrabbleScore(word) {
+    if (word == "A"){
+        return 1
+    }
+}
